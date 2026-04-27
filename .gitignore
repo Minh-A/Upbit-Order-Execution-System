@@ -1,0 +1,25 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Local credentials
+.env
+key.txt
+*key*.txt
+*secret*.txt
+*token*.txt
+*키*.txt
+*키*.txt
+
+# Local outputs and notebooks
+outputs/
+data/
+*.csv
+*.xlsx
+
+# Editor and OS files
+.DS_Store
+.idea/
+.vscode/
