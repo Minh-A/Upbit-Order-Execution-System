@@ -5,19 +5,6 @@ guarded order execution. This project is best described as an **Upbit API order
 execution layer for crypto quant trading workflows** rather than a complete
 strategy engine.
 
-## Portfolio Positioning
-
-Recommended description:
-
-> A secure Upbit API order execution system that separates credentials from
-> source code, supports market data inspection, and protects live trading
-> commands with dry-run defaults.
-
-If this repository is later connected to your own signal logic, a stronger
-portfolio title would be:
-
-> Upbit Crypto Quant Trading Execution System
-
 ## Features
 
 - KRW market ticker lookup
